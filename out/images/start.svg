@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 134 126" style="enable-background:new 0 0 134 126;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st2{mask:url(#mask-2_1_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st3{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st4{mask:url(#mask-4_1_);fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+</style>
+<g id="Page-2">
+	<g id="Group-7-Copy" transform="translate(0.000000, 0.500000)">
+		<g id="Group-3" transform="translate(88.000000, 0.000000)">
+			<g id="Clip-2">
+			</g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="0" width="27" height="27">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="0" y="0" width="27" height="27" id="mask-2_1_">
+				<g class="st0">
+					<polygon id="path-1_1_" class="st1" points="0,0 27,0 27,27 0,27 					"/>
+				</g>
+			</mask>
+			<path id="Fill-1" class="st2" d="M27,13.5C27,21,21,27,13.5,27C6,27,0,21,0,13.5C0,6,6,0,13.5,0C21,0,27,6,27,13.5"/>
+		</g>
+		<g id="Group-6" transform="translate(0.000000, 10.000000)">
+			<g id="Clip-5">
+			</g>
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="0" y="0" width="134" height="115">
+					<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+				</filter>
+			</defs>
+			<mask maskUnits="userSpaceOnUse" x="0" y="0" width="134" height="115" id="mask-4_1_">
+				<g class="st3">
+					<polygon id="path-3_1_" class="st1" points="0,0 134,0 134,115 0,115 					"/>
+				</g>
+			</mask>
+			<path id="Fill-4" class="st4" d="M11,108.5l43.8-40.6c0.3,0.5,0.6,1,1,1.5l13.9,15.5l-18,18.2l0,0L63,115l22.5-24.2
+				c1.7-3.5,1.5-7.6-0.6-10.8c0-0.1-0.2-0.2-0.3-0.3c-0.2-0.2-0.3-0.5-0.5-0.7c0-0.1-0.1-0.1-0.2-0.2L69.7,62.8L87.3,42l15.5,11.1
+				c1.4,1,3.2,1.6,4.9,1.6c1.8,0,3.5-0.5,4.9-1.5c0.1,0,0.2-0.2,0.3-0.2c0.1-0.1,0.5-0.3,0.7-0.5l0.2-0.1L134,33.5l-10.1-10.8
+				l-14.8,13.8l-8.4-6.1l-0.1-0.2L82.5,15.7c0,0-0.1,0-0.2-0.1v0c-0.2-0.2-0.4-0.4-0.6-0.5l-20-13.7l0,0c-1.5-1-3.2-1.5-5-1.5
+				c-1.8,0-3.5,0.6-4.9,1.6c-0.1,0.1-0.2,0.2-0.3,0.3c-0.2,0.2-0.4,0.3-0.7,0.5c0,0-0.1,0.1-0.2,0.2L30.9,22l10.3,10.5l14.5-14.2
+				l12.9,8.7l-23,27.2L0,96.6L11,108.5z"/>
+		</g>
+	</g>
+</g>
+</svg>

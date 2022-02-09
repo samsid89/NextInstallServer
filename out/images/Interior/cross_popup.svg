@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="28px" viewBox="0 0 34 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>B Copy 7</title>
+    <defs>
+        <polygon id="path-1" points="0 0 34 0 34 28 0 28"></polygon>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Custom-Preset-Copy-9" transform="translate(-907.000000, -125.000000)">
+            <g id="B-Copy-7" transform="translate(907.000000, 125.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Clip-2" fill-opacity="0" fill="#FFFEFE" xlink:href="#path-1"></use>
+                <g id="Group" mask="url(#mask-2)" fill="#FFFEFE">
+                    <g transform="translate(5.900579, 0.770000)" id="Rectangle-Copy">
+                        <rect transform="translate(13.611806, 13.611806) scale(-1, -1) rotate(45.000000) translate(-13.611806, -13.611806) " x="11.8618055" y="-3.88819446" width="3.5" height="35"></rect>
+                        <rect transform="translate(13.611806, 13.611806) scale(1, -1) rotate(45.000000) translate(-13.611806, -13.611806) " x="11.8618055" y="-3.88819446" width="3.5" height="35"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
