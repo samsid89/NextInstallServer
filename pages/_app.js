@@ -126,6 +126,12 @@ function MyApp({ Component, pageProps }) {
           name="google-site-verification"
           content="bVxKIYCUplLGccRoAFuvMh6gT_pLltDx-Xl-jJ3umME"
         />
+        <meta property="og:site_name" content="AND Academy" />
+      <meta property="og:title" content="AND Academy | Transform your Career with Design" />
+      <meta property="og:description" content="No. 1 Design School for upskilling and career advancement. Learn Graphic Design, Interior Design, UX/UI Design, Motion Graphics and much more. Explore our online courses " />
+      <meta property="og:image"  content="/logo-site.jpg" />
+      <meta property="og:type" content="website" />
+      <meta property="og:updated_time" content="1440432930" />
         <link rel="apple-touch-icon" href="/favicon.png" />
       </Head>
       <Component {...contextValue} />
